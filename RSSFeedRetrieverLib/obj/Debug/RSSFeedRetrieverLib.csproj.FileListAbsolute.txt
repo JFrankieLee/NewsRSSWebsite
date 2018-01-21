@@ -1,0 +1,5 @@
+C:\Users\James\Documents\Dev\Tungsten\NewsWebsite\RSSFeedRetrieverLib\bin\Debug\RSSFeedRetrieverLib.dll
+C:\Users\James\Documents\Dev\Tungsten\NewsWebsite\RSSFeedRetrieverLib\bin\Debug\RSSFeedRetrieverLib.pdb
+C:\Users\James\Documents\Dev\Tungsten\NewsWebsite\RSSFeedRetrieverLib\obj\Debug\RSSFeedRetrieverLib.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\Dev\Tungsten\NewsWebsite\RSSFeedRetrieverLib\obj\Debug\RSSFeedRetrieverLib.dll
+C:\Users\James\Documents\Dev\Tungsten\NewsWebsite\RSSFeedRetrieverLib\obj\Debug\RSSFeedRetrieverLib.pdb

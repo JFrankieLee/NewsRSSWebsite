@@ -1,0 +1,9 @@
+C:\Users\James\Documents\Dev\Tungsten\NewsWebsite\RSSFeedRetrieverLib.Tests\bin\Debug\RSSFeedRetrieverLib.Tests.dll
+C:\Users\James\Documents\Dev\Tungsten\NewsWebsite\RSSFeedRetrieverLib.Tests\bin\Debug\RSSFeedRetrieverLib.Tests.pdb
+C:\Users\James\Documents\Dev\Tungsten\NewsWebsite\RSSFeedRetrieverLib.Tests\bin\Debug\nunit.framework.dll
+C:\Users\James\Documents\Dev\Tungsten\NewsWebsite\RSSFeedRetrieverLib.Tests\bin\Debug\RSSFeedRetrieverLib.dll
+C:\Users\James\Documents\Dev\Tungsten\NewsWebsite\RSSFeedRetrieverLib.Tests\bin\Debug\RSSFeedRetrieverLib.pdb
+C:\Users\James\Documents\Dev\Tungsten\NewsWebsite\RSSFeedRetrieverLib.Tests\bin\Debug\nunit.framework.xml
+C:\Users\James\Documents\Dev\Tungsten\NewsWebsite\RSSFeedRetrieverLib.Tests\obj\Debug\RSSFeedRetrieverLib.Tests.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\Dev\Tungsten\NewsWebsite\RSSFeedRetrieverLib.Tests\obj\Debug\RSSFeedRetrieverLib.Tests.dll
+C:\Users\James\Documents\Dev\Tungsten\NewsWebsite\RSSFeedRetrieverLib.Tests\obj\Debug\RSSFeedRetrieverLib.Tests.pdb
